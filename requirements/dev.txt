@@ -1,2 +1,6 @@
 Flask
 flask_restful
+flask_marshmallow
+Flask-SQLAlchemy
+pysqlite3
+marshmallow-sqlalchemy
